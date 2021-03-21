@@ -1,0 +1,10 @@
+{
+  "name": "whatsapp-bulk-upwork",
+  "version": "1.0.0",
+  "dependencies": {
+    "exceljs": "^4.2.1"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}
